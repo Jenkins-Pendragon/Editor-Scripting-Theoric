@@ -197,6 +197,8 @@ public override void OnInspectorGUI()
 ```
  Şeklinde kullanırsanız kendi aldığı değeri tutacaktır. Slider'dan alınan değeri daha sonra istediğiniz bir değişkene atayabilir veya metot içinde başka bir değişkenin buna bağıl yeni değerini hesaplayıp saklayabilir / inspector'a basabiliirsiniz.
  
+ ---------------------------------------------------------------------------------------
+ 
  ### Phase 5 (Sonuç - Günün Sonu)
  
   Kavramsal olarak bir çok şeyi anladığımıza ve mantığını oturttuğumuza inanıyorum. Özellikle bir tool geliştirip bu tool'a has bir Window/Inspector vs. geliştirmeyecekseniz. Editor Scriptlemeye derinlemesine girmenize gerek yoktur. Odin - Inspector and Serializer pakedi ile tek bir [Button] attribute'ü atarak metodunuzu inspactora basabilirsiniz. Buraya kadar anladıklarınız ve öğrendiklerinizden yola çıkarak basit şeyleri, Unity dökümantasyondan da destek alarak halledebilirsiniz. Bu yazı ile, biraz karmaşık gözüken editör classlarının aralarındaki farkı ve benzerliği gördüğünüze, aklınızda soru işareti kalmadan sıradaki adımlara ilerleyebileceğinize inanıyorum. Temel mantığı elimden geldiğince size aktarmaya çalıştım. Umarım faydalı olmuştur.
